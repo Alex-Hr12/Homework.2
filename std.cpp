@@ -1,5 +1,5 @@
 #include <string>
 std::string getText() {
-    std::string a = "текст std.cpp";
+    std::string a = "текст";
     return a;
 }
